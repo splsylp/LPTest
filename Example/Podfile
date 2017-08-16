@@ -1,6 +1,8 @@
 platform :ios, '8.0'
-target 'MyTest'
+use_frameworks!
 
-#use_frameworks!
+target 'MyTest' do
 
 pod 'LPTest'
+
+end
