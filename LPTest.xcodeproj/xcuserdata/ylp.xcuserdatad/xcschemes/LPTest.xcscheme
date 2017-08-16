@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "45389A151F43AFB700D836E2"
-               BuildableName = "MyTest.app"
-               BlueprintName = "MyTest"
-               ReferencedContainer = "container:MyTest.xcodeproj">
+               BlueprintIdentifier = "45AC49951F442D7500861FE7"
+               BuildableName = "LPTest.app"
+               BlueprintName = "LPTest"
+               ReferencedContainer = "container:LPTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "45389A291F43AFB700D836E2"
-               BuildableName = "MyTestTests.xctest"
-               BlueprintName = "MyTestTests"
-               ReferencedContainer = "container:MyTest.xcodeproj">
+               BlueprintIdentifier = "45AC49A91F442D7500861FE7"
+               BuildableName = "LPTestTests.xctest"
+               BlueprintName = "LPTestTests"
+               ReferencedContainer = "container:LPTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "45389A341F43AFB700D836E2"
-               BuildableName = "MyTestUITests.xctest"
-               BlueprintName = "MyTestUITests"
-               ReferencedContainer = "container:MyTest.xcodeproj">
+               BlueprintIdentifier = "45AC49B41F442D7500861FE7"
+               BuildableName = "LPTestUITests.xctest"
+               BlueprintName = "LPTestUITests"
+               ReferencedContainer = "container:LPTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "45389A151F43AFB700D836E2"
-            BuildableName = "MyTest.app"
-            BlueprintName = "MyTest"
-            ReferencedContainer = "container:MyTest.xcodeproj">
+            BlueprintIdentifier = "45AC49951F442D7500861FE7"
+            BuildableName = "LPTest.app"
+            BlueprintName = "LPTest"
+            ReferencedContainer = "container:LPTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "45389A151F43AFB700D836E2"
-            BuildableName = "MyTest.app"
-            BlueprintName = "MyTest"
-            ReferencedContainer = "container:MyTest.xcodeproj">
+            BlueprintIdentifier = "45AC49951F442D7500861FE7"
+            BuildableName = "LPTest.app"
+            BlueprintName = "LPTest"
+            ReferencedContainer = "container:LPTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "45389A151F43AFB700D836E2"
-            BuildableName = "MyTest.app"
-            BlueprintName = "MyTest"
-            ReferencedContainer = "container:MyTest.xcodeproj">
+            BlueprintIdentifier = "45AC49951F442D7500861FE7"
+            BuildableName = "LPTest.app"
+            BlueprintName = "LPTest"
+            ReferencedContainer = "container:LPTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

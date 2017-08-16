@@ -1,6 +1,6 @@
 //
-//  MyTestUITests.swift
-//  MyTestUITests
+//  LPTestUITests.swift
+//  LPTestUITests
 //
 //  Created by Tony on 2017/8/16.
 //  Copyright © 2017年 Tony. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class MyTestUITests: XCTestCase {
+class LPTestUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
