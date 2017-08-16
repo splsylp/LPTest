@@ -8,19 +8,23 @@
 
 import UIKit
 
-class RedView: UIView {
+public class RedView: UIView {
 
-    override init(frame: CGRect) {
+    public override init(frame: CGRect) {
         super.init(frame: frame)
         commonInit()
     }
     
-    required init?(coder aDecoder: NSCoder) {
+    public required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         commonInit()
     }
     
-    func commonInit() {
+    private func commonInit() {
         self.backgroundColor = UIColor.red
+    }
+    
+    public func changeBackgroundColor(_ color: UIColor) {
+        self.backgroundColor = color
     }
 }
