@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4546FB061F452B5B00226DA0 /* bannerView.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4546FB051F452B5B00226DA0 /* bannerView.gif */; };
 		45AC499A1F442D7500861FE7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AC49991F442D7500861FE7 /* AppDelegate.swift */; };
 		45AC499C1F442D7500861FE7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AC499B1F442D7500861FE7 /* ViewController.swift */; };
 		45AC499F1F442D7500861FE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45AC499D1F442D7500861FE7 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4546FB051F452B5B00226DA0 /* bannerView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bannerView.gif; sourceTree = "<group>"; };
 		45AC49961F442D7500861FE7 /* LPTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LPTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45AC49991F442D7500861FE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45AC499B1F442D7500861FE7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,9 +78,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4546FB041F452B5B00226DA0 /* ShowGif */ = {
+			isa = PBXGroup;
+			children = (
+				4546FB051F452B5B00226DA0 /* bannerView.gif */,
+			);
+			path = ShowGif;
+			sourceTree = "<group>";
+		};
 		45AC498D1F442D7500861FE7 = {
 			isa = PBXGroup;
 			children = (
+				4546FB041F452B5B00226DA0 /* ShowGif */,
 				45AC49981F442D7500861FE7 /* LPTest */,
 				45AC49AD1F442D7500861FE7 /* LPTestTests */,
 				45AC49B81F442D7500861FE7 /* LPTestUITests */,
@@ -247,6 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45AC49A41F442D7500861FE7 /* LaunchScreen.storyboard in Resources */,
+				4546FB061F452B5B00226DA0 /* bannerView.gif in Resources */,
 				45AC49A11F442D7500861FE7 /* Assets.xcassets in Resources */,
 				45AC499F1F442D7500861FE7 /* Main.storyboard in Resources */,
 			);
